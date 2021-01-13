@@ -1,5 +1,5 @@
 # Como fazer deploy de aplicações ReactJS no Github-Pages
-Um gruia pra falicitar deploy dos seus tamplates feito em ReactJS
+Um gruia pra falicitar deploy dos seus tamplates feitos em ReactJS
 
 ## Procedimentos :
 
