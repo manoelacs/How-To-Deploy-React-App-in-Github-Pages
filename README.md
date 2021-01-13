@@ -54,11 +54,11 @@ git push origin master
 
 Resumindo:
 
-criamos um React App usando create-react-app
-então instalamos o pacote gh-pages como depedência de desenvolvimento
-no arquivo package.json nós adicinando algumas propriedade como homepage e editamos as propriedade de scripts,  adicionando predeploy and deploy
-depois criamos um repsótio remoto ou adicionamos a um repositório já existente.
-Executando npm run deploy ou yarn run deploy iremos gerar a build de produção  e fazer deploy no GitHub Pages.
+- [X] criamos um React App usando create-react-app
+- [X] então instalamos o pacote gh-pages como depedência de desenvolvimento
+- [X] no arquivo package.json nós adicinando algumas propriedade como homepage e editamos as propriedade de scripts,  adicionando predeploy and deploy
+- [X] depois criamos um repsótio remoto ou adicionamos a um repositório já existente.
+- [X] Executando npm run deploy ou yarn run deploy iremos gerar a build de produção  e fazer deploy no GitHub Pages.
 
 
 Adaptado de [DEV -  autor: Ibrahim Ragab](https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f)
