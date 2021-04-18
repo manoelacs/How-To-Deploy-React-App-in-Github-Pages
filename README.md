@@ -30,14 +30,11 @@ Segundo, ainda no package.json adicione as seguintes propriedade em scripts:
 Teremos o resultado igual da imagem a seguir:
 ![](https://res.cloudinary.com/practicaldev/image/fetch/s--MjMDNfNZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8kevraaawx8mi9ryx9lb.png)
 
-4- Create a Github repository and initialize it and add it as a remote in your local git repository.
-
-git remote add origin url_do_seu_repositório
+4- Crie um repositório no Github então inicialize e adicione ele como um repositório remoto no seu git local. 
+- Execute o comando a seguir: git remote add origin url_do_seu_repositório
 
 5- Agora iremos fazer deploy para Github Pages. 
-Execute o comando a seguir:
-
-npm run deploy
+- Execute o comando a seguir: npm run deploy
 
 ![](https://res.cloudinary.com/practicaldev/image/fetch/s--nLcRus4E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fsjvc2avaib2mskxqawa.png)
 
